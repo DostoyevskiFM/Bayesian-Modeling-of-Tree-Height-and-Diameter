@@ -1,4 +1,4 @@
-﻿inventory_year,survey_unit,country,plot_number,tree_number,diametr,height,SPCD,log_height,log_diametr
+﻿inventory_year,survey_unit,country,plot_number,tree_number,diameter,height,SPCD,log_height,log_diameter
 2022,2,5,204,1,18.796000000000003,11.5824,97.0,2.44948670455674,2.9336440812405695
 2022,2,5,204,3,19.05,12.192,97.0,2.5007799989442905,2.94706710157271
 2022,2,5,204,4,28.702,12.8016,97.0,2.5495701631137226,3.35696680674874
